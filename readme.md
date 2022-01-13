@@ -1,3 +1,3 @@
-# MongoDB ObjectID to Timestamp converter (and vice-versa)
+# Split MongoDB ObjectID
 
-Play with it at [http://steveridout.github.io/mongo-object-time/](http://steveridout.github.io/mongo-object-time/).
+It was forked from [http://steveridout.github.io/mongo-object-time/](http://steveridout.github.io/mongo-object-time/).
